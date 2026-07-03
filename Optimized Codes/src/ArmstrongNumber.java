@@ -20,6 +20,6 @@ public class ArmstrongNumber {
     }
 
     public static void main(String[] args) {
-        System.out.println(armstrong(153));
+        System.out.println(armstrong(154));
     }
 }

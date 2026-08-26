@@ -12,6 +12,8 @@ public class ReverseInteger {
             rev = rev*10+lastdigit;
         }
         System.out.println(rev);
+
+
     }
 
     public static void main(String [] a){
